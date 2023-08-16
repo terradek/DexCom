@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://clarity.dexcom.com/",
+  "browserName":"chrome",
+  "login": "codechallenge",
+  "password": "Password123"
+}

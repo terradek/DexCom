@@ -1,0 +1,15 @@
+{
+  "homePage": {
+    "homeUsersButton": { "xpath": "//li[@class='panel home-user']//a" }
+  },
+  "loginPage": {
+    "email": { "xpath": "//input[@id='email']" },
+    "password": { "xpath": "//input[@id='password']" },
+    "loginButton": { "xpath": "//input[@type='submit']" }
+
+  },
+  "roomPage": {
+    "logOut": { "xpath": "//a[contains(@class, 'home-user-header__logout')]" }
+  }
+  
+}
