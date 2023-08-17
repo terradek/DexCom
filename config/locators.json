@@ -10,6 +10,10 @@
   },
   "roomPage": {
     "logOut": { "xpath": "//a[contains(@class, 'home-user-header__logout')]" }
+  },
+
+  "api": {
+    "session": "/api/subject/1681277794575765504/analysis_session"
   }
   
 }

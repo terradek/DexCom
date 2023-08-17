@@ -16,6 +16,8 @@ Start the UI tests using:
 ```sh
 jest
 ```
+Please note that during execution the AccessToken and POST results are printed in the console.
+
 
 ## Folder structure
 

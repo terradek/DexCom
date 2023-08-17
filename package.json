@@ -15,6 +15,8 @@
     "selenium-webdriver": "4.11.1"
   },
   "dependencies": {
-    "jest-editor-support": "31.1.1"
+    "frisby": "github:vlucas/frisby",
+    "jest-editor-support": "31.1.1",
+    "joi": "^17.9.2"
   }
 }
